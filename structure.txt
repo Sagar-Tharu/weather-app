@@ -1,0 +1,7 @@
+weather-app/
+├── index.html
+├── styles.css
+├── script.js
+├── profile.html
+├── settings.html
+└── README.md
