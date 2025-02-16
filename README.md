@@ -9,7 +9,7 @@ A simple weather dashboard built with HTML, CSS, and JavaScript.
 - Customizable settings (theme, units, notifications).
 
 ## Live Demo
-[View Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME)
+[View Live Demo]((https://sagar-tharu.github.io/weather-app)
 
 ## How to Use
 1. Enter a location in the search bar.
